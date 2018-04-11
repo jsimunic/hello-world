@@ -1,2 +1,3 @@
 # hello-world
-example repo
+
+Greetings Homo sapiens!
